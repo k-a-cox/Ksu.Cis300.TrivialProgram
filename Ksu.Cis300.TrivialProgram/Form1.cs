@@ -1,4 +1,8 @@
-﻿using System;
+﻿/* Form1.cs
+ * Author: Kaleb Cox
+ */
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
